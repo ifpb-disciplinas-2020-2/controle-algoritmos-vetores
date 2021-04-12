@@ -4,7 +4,7 @@ Este projeto está estruturado com os assuntos relacionados às estruturas homog
 
 # Aulas
 
-*[Aula 1 - vetores ](https://github.com/ifpb-disciplinas-2020-2/controle-algoritmos-vetores/commit/a89b16cc3ec82532eeb96be67e679f144b026e28)* 
+*[Aula 1 - vetores ](https://github.com/ifpb-disciplinas-2020-2/controle-algoritmos-vetores/commit/ef7bd50b843bebb3f3d11383ff7a46c8d7bb2c7b)* 
 
 
 ## Organização do projeto
